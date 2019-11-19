@@ -1,5 +1,8 @@
 language: html
-
+html:
+        - html3
+        - html4
+        - html5
 cash: yarn
 
 install:
